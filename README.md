@@ -14,11 +14,11 @@
 
 ## 18.10.2024
 
-- [ ] Weiter and The Odin Project arbeiten
-- [ ] Weiter an The Odin Project Java
+- [x] Weiter and The Odin Project arbeiten
+- [x] Weiter an The Odin Project Java
 - [ ] Weiter an The Odin Project arbeiten
-- [ ] Left Center Right ausbessern/weitermachen
-✍️ Heute habe ich... (50-100 Wörter)
+- [x] Left Center Right ausbessern/weitermachen
+✍️ Heute habe ich hauptsächlich am "The Odin Project" weitergearbeitet. Dort bin ich immer noch beim JavaScript Teil, bin aber fast fertig. Ich habe noch ein bisschen weiter am LeftCenterRight-Programm weitergearbeitet, weil ich am Mittwoch nicht ganz fertig wurde. Weil ich heute nur etwa ein Arbeitspaket daran weitergearbeitet habe, muss ich am Wochenende das Projekt noch vervollständigen/beenden. (56 Wörter)
 
 ## 25.10.2024
 
