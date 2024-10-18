@@ -1,5 +1,5 @@
 # Lern-Periode-7
-Lern-Periode 5
+
 
 18.10 bis 20.12.2024
 
@@ -20,7 +20,7 @@ Lern-Periode 5
 - [ ] Left Center Right ausbessern/weitermachen
 ✍️ Heute habe ich... (50-100 Wörter)
 
-## 30.4.2024
+## 25.10.2024
 
 - [ ] Erstes Arbeitspaket
 - [ ] ...
