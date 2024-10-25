@@ -22,9 +22,10 @@
 
 ## 25.10.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Anfang C# Projekt (RPG https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/ )
+- [ ] C# Projekt weiterarbeiten
+- [ ] C# Projekt
+- [ ] Repetitionsaufgabe
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
