@@ -22,11 +22,11 @@
 
 ## 25.10.2024
 
-- [ ] Anfang C# Projekt (RPG https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/ )
-- [ ] C# Projekt weiterarbeiten
-- [ ] C# Projekt
-- [ ] Repetitionsaufgabe
+- [x] Anfang C# Projekt (RPG https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/ )
+- [x] C# Projekt weiterarbeiten
+- [x] C# Projekt
+- [x] Repetitionsaufgabe
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich mit dem Tutorial-Kurs für ein kleines RPG in C# angefangen. Ich habe gestern eine Github Repo gefunden, wo viele Projektideen sind (mit den dazugehörigen Ressourcen, um es umzusetzen) und dann habe ich mich für dieses Projekt entschieden. Bisher habe ich neue Sachen über Forms gelernt und Basic-C# repetiert. Ich habe auch gelernt, eine Projekt-Referenz zu einem Forms-Projekt zu machen. Ich habe auch Ihre Repetitionsaufgabe in der Session gemacht. (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
