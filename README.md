@@ -29,4 +29,11 @@
 
 ✍️ Heute habe ich mit dem Tutorial-Kurs für ein kleines RPG in C# angefangen. Ich habe gestern eine Github Repo gefunden, wo viele Projektideen sind (mit den dazugehörigen Ressourcen, um es umzusetzen) und dann habe ich mich für dieses Projekt entschieden. Bisher habe ich neue Sachen über Forms gelernt und Basic-C# repetiert. Ich habe auch gelernt, eine Projekt-Referenz zu einem Forms-Projekt zu machen. Ich habe auch Ihre Repetitionsaufgabe in der Session gemacht. (50-100 Wörter)
 
+## 01.11.2024
+
+- [ ] Am C# Projekt (Mini-RPG mit Forms) weiterarbeiten.
+- [ ] Am C# Projekt weiterarbeiten.
+- [ ] C# Projekt weiterarbeiren.
+- [ ] Am C# Projekt weiterarbeiten.
+
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
