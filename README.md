@@ -27,13 +27,27 @@
 - [x] C# Projekt
 - [x] Repetitionsaufgabe
 
-✍️ Heute habe ich mit dem Tutorial-Kurs für ein kleines RPG in C# angefangen. Ich habe gestern eine Github Repo gefunden, wo viele Projektideen sind (mit den dazugehörigen Ressourcen, um es umzusetzen) und dann habe ich mich für dieses Projekt entschieden. Bisher habe ich neue Sachen über Forms gelernt und Basic-C# repetiert. Ich habe auch gelernt, eine Projekt-Referenz zu einem Forms-Projekt zu machen. Ich habe auch Ihre Repetitionsaufgabe in der Session gemacht. (50-100 Wörter)
+✍️ Heute habe ich mit dem Tutorial-Kurs für ein kleines RPG in C# angefangen. Ich habe gestern eine Github Repo gefunden, wo viele Projektideen sind (mit den dazugehörigen Ressourcen, um es umzusetzen) und dann habe ich mich für dieses Projekt entschieden. Bisher habe ich neue Sachen über Forms gelernt und Basic-C# repetiert. Ich habe auch gelernt, eine Projekt-Referenz zu einem Forms-Projekt zu machen. Ich habe auch Ihre Repetitionsaufgabe in der Session gemacht. (71 Wörter)
 
 ## 01.11.2024
 
-- [ ] Am C# Projekt (Mini-RPG mit Forms) weiterarbeiten.
+- [x] Am C# Projekt (Mini-RPG mit Forms) weiterarbeiten.
+- [x] Am C# Projekt weiterarbeiten.
+- [x] C# Projekt weiterarbeiren.
 - [ ] Am C# Projekt weiterarbeiten.
-- [ ] C# Projekt weiterarbeiren.
-- [ ] Am C# Projekt weiterarbeiten.
+
+Ich konnte nicht alle Arbeitspakete erledigen, weil ich ein Problem hatte, mein Visual Studio-Projekt über Github mit meinem Desktop zu synchronisieren. Ich habe relativ lange versucht, es zu beheben, weil ich dann ohne viel Aufwand synchron auf meinem Laptop und Dekstop an Code-Projekten zu arbeiten. Es ist für mich angenehmer, mit zwei Monitoren und besserer Peripherie zu arbeiten.
+Sonst habe ich mich weiter mit WinForms bekannt gemacht und ich habe weiterhin gelernt, C# und WinForms zu benutzen. (77 Wörter)
+
+## 08.11.2024
+
+- [x] Weiter am C# Projekt arbeiten.
+- [x] C# Projekt arbeiten
+- [x] DOM-Manipulation bei JavaScript (M294)
+- [x] DOM-Manipulation Auftrag abschliessen.
+
+Ich habe heute weiter an meinem Projekt gearbeitet, ich habe dem Kurs einfach gefolgt. 
+Leider habe ich beim Kurs immer noch nicht neue C#-Sachen gelernt, jedoch habe ich schon Gelerntes erneut angewendet und somit habe ich das Wissen und Können mehr "verfestigt" als Übung. 
+Sonst habe ich einige Aufträge von gestern bei Frau Rapisarda abgeschlossen und angefangen, weil ich gestern einen Termin hatte und nicht viel dort arbeiten konnte. (69 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
