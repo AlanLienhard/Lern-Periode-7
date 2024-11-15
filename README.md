@@ -50,4 +50,10 @@ Ich habe heute weiter an meinem Projekt gearbeitet, ich habe dem Kurs einfach ge
 Leider habe ich beim Kurs immer noch nicht neue C#-Sachen gelernt, jedoch habe ich schon Gelerntes erneut angewendet und somit habe ich das Wissen und Können mehr "verfestigt" als Übung. 
 Sonst habe ich einige Aufträge von gestern bei Frau Rapisarda abgeschlossen und angefangen, weil ich gestern einen Termin hatte und nicht viel dort arbeiten konnte. (69 Wörter)
 
+## 15.11.2024
+
+- [ ] Weiter am C# Projekt "SuperAdventure" arbeiten 
+- [ ] Weiter am C# Projekt "SuperAdventure" arbeiten 
+- [ ] Weiter am C# Projekt "SuperAdventure" arbeiten 
+- [ ] Weiter am C# Projekt "SuperAdventure" arbeiten 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
