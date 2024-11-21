@@ -57,5 +57,5 @@ Sonst habe ich einige Aufträge von gestern bei Frau Rapisarda abgeschlossen und
 - [x] Weiter am C# Projekt "SuperAdventure" arbeiten 
 - [x] Weiter am C# Projekt "SuperAdventure" arbeiten
 
-Ich habe heute, wie geplant, an dem Kurs bzw. Projekt "SuperAdventure" weitergearbeitet.
+Ich habe heute, wie geplant, an dem Kurs bzw. Projekt "SuperAdventure" weitergearbeitet. Ich habe (leider) immer noch an "altem" C# Wissen weitergearbeitet, jedoch sollte ich, laut den Titeln der nächsten Lektionen, viel Neues lernen, hauptsächlich WinForms und UI-bezogen. Zum Glück hatte ich heute nur Probleme, die ich mithilfe des Debuggers von VisualStudio beheben konnte. (54 Wörter)
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
