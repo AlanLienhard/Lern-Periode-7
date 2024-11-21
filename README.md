@@ -52,8 +52,10 @@ Sonst habe ich einige Aufträge von gestern bei Frau Rapisarda abgeschlossen und
 
 ## 15.11.2024
 
-- [ ] Weiter am C# Projekt "SuperAdventure" arbeiten 
-- [ ] Weiter am C# Projekt "SuperAdventure" arbeiten 
-- [ ] Weiter am C# Projekt "SuperAdventure" arbeiten 
-- [ ] Weiter am C# Projekt "SuperAdventure" arbeiten 
+- [x] Weiter am C# Projekt "SuperAdventure" arbeiten 
+- [x] Weiter am C# Projekt "SuperAdventure" arbeiten 
+- [x] Weiter am C# Projekt "SuperAdventure" arbeiten 
+- [x] Weiter am C# Projekt "SuperAdventure" arbeiten
+
+Ich habe heute, wie geplant, an dem Kurs bzw. Projekt "SuperAdventure" weitergearbeitet.
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
