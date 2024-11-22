@@ -61,8 +61,8 @@ Ich habe heute, wie geplant, an dem Kurs bzw. Projekt "SuperAdventure" weitergea
 
 ## 22.11.2024
 
-- [x] Weiter am C# Projekt "SuperAdventure" arbeiten 
-- [x] Weiter am C# Projekt "SuperAdventure" arbeiten 
-- [x] Weiter am C# Projekt "SuperAdventure" arbeiten 
-- [x] Weiter am C# Projekt "SuperAdventure" arbeiten
+- [ ] Weiter am C# Projekt "SuperAdventure" arbeiten 
+- [ ] Weiter am C# Projekt "SuperAdventure" arbeiten 
+- [ ] Weiter am C# Projekt "SuperAdventure" arbeiten 
+- [ ] Weiter am C# Projekt "SuperAdventure" arbeiten
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
