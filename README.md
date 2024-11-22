@@ -5,7 +5,7 @@
 
 ## Grob-Planung
 
-1. Meine Noten sind bisher alle genügend und ausreichend.
+1. Meine Noten sind bisher alle genügend und ausreichend. Für die kommenden LBs der Module M294, M450 und M346 setze ich mir die folgenden Noten als Ziel: 5, 5.5 und 5. Ich hoffe, ich werde das erreichen, jedoch kann ich mir vorstellen, dass ich beim Modul M346 schlechter haben werde, weil AWS ziemlich kompliziert ist (für mich zumindest).
   
 2. Ich habe mir vorgenommen, weiter am "The Odin Project" zu arbeiten und weiterhin JavaScript zu lernen. Mein VBV war, dass ich versuche, mich weniger ablenken zu lassen und meine Arbeitspakete genauer plane, zeitlich und auch, dass ich sie genauer formuliere bzw. schreibe. Das Ziel davon wäre, dass ich produktiver arbeite.
   
