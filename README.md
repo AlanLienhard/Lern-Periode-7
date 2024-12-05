@@ -61,8 +61,15 @@ Ich habe heute, wie geplant, an dem Kurs bzw. Projekt "SuperAdventure" weitergea
 
 ## 22.11.2024
 
-- [ ] Weiter am C# Projekt "SuperAdventure" arbeiten 
-- [ ] Weiter am C# Projekt "SuperAdventure" arbeiten 
-- [ ] Weiter am C# Projekt "SuperAdventure" arbeiten 
-- [ ] Weiter am C# Projekt "SuperAdventure" arbeiten
+- [x] Weiter am C# Projekt "SuperAdventure" arbeiten 
+- [x] Weiter am C# Projekt "SuperAdventure" arbeiten 
+- [x] Weiter am C# Projekt "SuperAdventure" arbeiten 
+- [x] Weiter am C# Projekt "SuperAdventure" arbeiten
+
+Heute habe ich, wie gewohnt, an dem Projekt SuperAdventure weitergearbeitet. Ich bin schon bald mit dem obligatorischen Teil fertig (nach dem Teil, gibt es noch einen optionalen Teil, der das Projekt weiter ausbaut, jedoch ist die Grundfunktionalität nach dem obligatorischem Teil vorhanden). Ich habe heute angefangen, mit User-Inputs umzugehen und meinen Charakter z.b. von einem Ort zum Anderen zu bewegen. Nächstes Mal werde ich jedoch vermutlich an der LB von Herr Colic (und evtl. von Frau Rapisarda) weiterarbeiten, da es doch noch viel Arbeit ist. (85 Wörter)
+
+## 28.11.2024
+
+- [ ]
+
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
