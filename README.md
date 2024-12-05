@@ -70,6 +70,17 @@ Heute habe ich, wie gewohnt, an dem Projekt SuperAdventure weitergearbeitet. Ich
 
 ## 28.11.2024
 
-- [ ]
+- [x] An der LB von M346 bei Herr Colic weiterarbeiten
+- [x] Bei der LB von M346, Herr Colic weiterarbeiten
+- [x] An der LB vom Modul M294 bei Frau Rapisarda weiterarbeiten
+- [x] An der M294-LB weiterarbeiten
 
+Heute habe ich an den LBs von Frau Rapisarda und Herr Colic weitergearbeitet, weil die uns gegebene Zeit, mir zumindest, nicht genügt (vielen Anderen ging es auch so). Bei der LB von Herr Colic mache ich eine Gruppenarbeit mit Amar Nuhija und ich habe das gemacht, wo wir abgemacht haben, dass ich es mache (wir haben uns natürlich auch gegenseitig geholfen). Bei den anderen Arbeitspaketen, denen von Frau Rapisarda, habe ich alleine an meiner SPA-Website gearbeitet. (76 Wörter)
+
+## 06.12.2024
+
+- [ ] Beim Projekt SuperAdventure am User-Input/Movement weiterarbeiten
+- [ ] Beim Projekt SuperAdventure am User-Input/Movement weiterarbeiten
+- [ ]  Beim Projekt SuperAdventure am User-Input/Movement weiterarbeiten
+- [ ]  Beim Projekt SuperAdventure am User-Input/Movement weiterarbeiten
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
