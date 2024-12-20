@@ -79,8 +79,21 @@ Heute habe ich an den LBs von Frau Rapisarda und Herr Colic weitergearbeitet, we
 
 ## 06.12.2024
 
-- [ ] Beim Projekt SuperAdventure am User-Input/Movement weiterarbeiten
-- [ ] Beim Projekt SuperAdventure am User-Input/Movement weiterarbeiten
-- [ ]  Beim Projekt SuperAdventure am User-Input/Movement weiterarbeiten
-- [ ]  Beim Projekt SuperAdventure am User-Input/Movement weiterarbeiten
+- [x] Beim Projekt SuperAdventure am User-Input/Movement weiterarbeiten
+- [x] Beim Projekt SuperAdventure am User-Input/Movement weiterarbeiten
+- [x]  Beim Projekt SuperAdventure am User-Input/Movement weiterarbeiten
+- [x]  Beim Projekt SuperAdventure am User-Input/Movement weiterarbeiten
+
+Heute habe ich, wie gewohnt, durch den Kurs gearbeitet. Ich habe heute das Projekt fast abgeschlossen, und alles ging gut. Doch bei einem Auftrag, wurde ich aufgefordert, den Code von Github mittels Copy-Paste in mein Projekt einfügen und dann hatte ich haufenweise Fehler ich Code. Ich habe probiert, diese zu beheben, jedoch waren es zu viele, um sie in der verbleibenden Zeit zu behebe. Es ist auch schwierig, die logischen Fehler zu "finden", weil mein WinForms-Designer wegen einem Fehler nicht lädt, somit kann ich das Programm nicht einmal starten. (89 Wörter)
+
+
+## 13.12.2024
+
+Heute konnte ich nicht arbeiten, da ich zwei Zahnarzttermine am Morgen hatte und ich habe es zeitlich nicht geschafft, nach Baden an die BBB zu kommen. Deshalb konnte ich an dem Tag keine Arbeitspakete bearbeiten und habe auch weniger als die (erforderlichen) 50 Wörter. (44 Wörter)
+
+## 20.12.2024
+
+- [ ] Probieren, Fehler im Code vom Projekt "SuperAdventure" zu beheben
+- [ ] Fehler im SuperAdventure Projekt möglichst gut zu beheben.
+- [ ] Fehler beheben, falls die zwei vorherigen Arbeitspakete gefehlt haben.
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
