@@ -93,7 +93,9 @@ Heute konnte ich nicht arbeiten, da ich zwei Zahnarzttermine am Morgen hatte und
 
 ## 20.12.2024
 
-- [ ] Probieren, Fehler im Code vom Projekt "SuperAdventure" zu beheben
-- [ ] Fehler im SuperAdventure Projekt möglichst gut zu beheben.
-- [ ] Fehler beheben, falls die zwei vorherigen Arbeitspakete gefehlt haben.
+- [x] Probieren, Fehler im Code vom Projekt "SuperAdventure" zu beheben
+- [x] Fehler im SuperAdventure Projekt möglichst gut zu beheben.
+- [x] Fehler beheben, falls die zwei vorherigen Arbeitspakete gefehlt haben.
+
+Ich habe versucht, die Fehler zu beheben, jedoch hatte ich schlussendlich mehr Fehler, als am Anfang. Ich habe sogar versucht, die Fehler mittels Download vom Source-Code zu beheben. Es hat nicht funktioniert. Mein grösstes Problem ist, dass ich einige Labels beheben soll, aber ich kann den Designer aufgrund von Fehlern nicht starten. (52 Wörter)
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
